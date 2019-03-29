@@ -1,0 +1,2 @@
+# esx_drugs_custom
+This is an older esx_drugs from https://github.com/ESX-Org/esx_drugs I did not create this or take credit. I simply have Added Blips, Customs Locations, and MoonShine to it. I am sharing my copy from private to everyone. It is very simple to use and Install. I will be adding more to it later on example some Animations while waiting for harvest and proccess. There will be a detailed Readme from me on how to intall. 
